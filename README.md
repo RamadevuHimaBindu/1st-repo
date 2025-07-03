@@ -1,2 +1,2 @@
-# 1st-repo on git hub
+# first repo on git
 my first repo
